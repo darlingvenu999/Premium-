@@ -1,0 +1,6 @@
+{
+  "name": "StudentHub",
+  "description": "Premium all-in-one developer and career acceleration hub for tech students featuring interactive roadmaps, hackathon radar, internship tracker, project incubator, and AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
